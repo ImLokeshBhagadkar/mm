@@ -7,10 +7,15 @@
 ## HomePage demo
 ![image](https://github.com/user-attachments/assets/35c28d01-4439-4dea-b728-dda4cdb3451f)
 
-##User Interaction while sharing at RealTime
+
+---
+## User Interaction while sharing at RealTime
 ![image](https://github.com/user-attachments/assets/f41ac539-f28a-45da-a9dc-af04d63d51f6)
 
-##Process To invite user to collaborate
+---
+
+
+## Process To invite user to collaborate
 ![image](https://github.com/user-attachments/assets/b7cc842e-b6aa-42bb-8aed-c705456060cc)
 
 
