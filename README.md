@@ -3,6 +3,14 @@
 **MindMesh** is an AI-powered productivity platform built using **Next.js 14**, **Cloudflare Workers**, **Firebase**, **Clerk**, and **Liveblocks**. It offers a seamless, real-time collaborative workspace with advanced AI features like document summarization, multilingual translation, and conversational interaction with your content.
 
 🚀 Live Demo: 
+![image](https://github.com/user-attachments/assets/35c28d01-4439-4dea-b728-dda4cdb3451f)
+![image](https://github.com/user-attachments/assets/f41ac539-f28a-45da-a9dc-af04d63d51f6)
+![image](https://github.com/user-attachments/assets/b7cc842e-b6aa-42bb-8aed-c705456060cc)
+
+
+.
+.
+.
 
 ---
 
